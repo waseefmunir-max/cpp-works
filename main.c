@@ -2,9 +2,10 @@
 
 int main(void)
 {
-    printf("Hello World");
-    printf("Hello Worlda");
-    printf("I like pizza!");
+    printf("Hello World\n");
+    printf("Hello Worlda\n");
+    printf("I like pizza!\n");
+    printf("It's really tasty\n");
 
     return 0;
 }
