@@ -18,4 +18,4 @@ int main(){
     cout << "The output of respective variable: " << myString << '\n'; 
 
     return 0;
-}
+} 
